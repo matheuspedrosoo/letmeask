@@ -33,6 +33,8 @@ Este projeto foi desenvolvido com as sequintes tecnologias:
 
 - ✔️ NodeJS
 
+- ✔️ Sass
+
 - ✔️ React Hooks
 
 - ✔️ Context API
