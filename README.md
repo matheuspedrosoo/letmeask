@@ -1,46 +1,70 @@
-# Getting Started with Create React App
+<h1 align="center">
+<br>
+  <img src="./github/logo.png" alt="Letmeask" width="100">
+<br>
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">Aplicação de perguntas e respostas em tempo real, desenvolvida durante o treinamento NLW/Together da @rocketseat-education.</p>
+<br>
+<p align="center"> Acesse a versão de teste em produção através do link: 
+<div align="center">
 
-## Available Scripts
+[Clique aqui](https://letmeask-4b7b8.firebaseapp.com/)
 
-In the project directory, you can run:
+</div>
+</p>
 
-### `yarn start`
+# 📷
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<div align="center" >
+  <img src="./github/projeto.png" alt="projeto" 
+    
+</div>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+---
 
-### `yarn test`
+## 🚀 Tecnologias
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Este projeto foi desenvolvido com as sequintes tecnologias:
 
-### `yarn build`
+- ✔️ Typescript
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- ✔️ ReactJS
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- ✔️ NodeJS
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- ✔️ React Hooks
 
-### `yarn eject`
+- ✔️ Context API
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- ✔️ Eslint
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- ✔️ Prettier
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- ✔️ React hot toast
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- ✔️ Firebase
 
-## Learn More
+### Requisitos
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- [Node.js](https://nodejs.org/en/)
+- [Yarn](https://classic.yarnpkg.com/) or [npm](https://www.npmjs.com/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Clone o projeto e entre na pasta**
+
+```bash
+$ git clone https://github.com/matheuspedrosoo/letmeask.git && cd letmeask
+```
+
+**Instale as dependências**
+
+```bash
+# instalar as dependências do projeto
+$ yarn install
+
+# Iniciar projeto
+$ yarn start
+```
+
+Matheus pedroso 👋 [Linkedin](https://www.linkedin.com/in/matheuspedrosoo/)
+<br>
