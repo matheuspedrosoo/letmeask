@@ -26,7 +26,7 @@
 
 ## 🚀 Tecnologias
 
-Este projeto foi desenvolvido com as sequintes tecnologias:
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - ✔️ Typescript
 
